@@ -1,0 +1,6 @@
+[character]
+symbol = "λ"
+
+[prompt]
+add_newline = false
+
